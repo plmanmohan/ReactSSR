@@ -1,0 +1,19 @@
+{
+  "name": "reactssr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plmanmohan/ReactSSR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plmanmohan/ReactSSR/issues"
+  },
+  "homepage": "https://github.com/plmanmohan/ReactSSR#readme"
+}
